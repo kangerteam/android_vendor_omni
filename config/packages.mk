@@ -2,7 +2,8 @@
 PRODUCT_PACKAGES += \
     MonthCalendarWidget \
     OmniSwitch \
-    Chromium \
+    Jelly \
+    SnapdragonCamera \
     OmniJaws \
     OmniStyle \
     OmniClockOSS \
